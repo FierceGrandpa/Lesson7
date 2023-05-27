@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180206823838",
+    "project_id": "androidtest-f120c",
+    "storage_bucket": "androidtest-f120c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180206823838:android:cb86f6a7310328733d0e8f",
+        "android_client_info": {
+          "package_name": "ru.mirea.lukashev_ni.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATOa9U5sU2J4rclQoCWzsw2uZ5oxsjI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
